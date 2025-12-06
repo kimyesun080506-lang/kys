@@ -1,0 +1,1 @@
+import{__FramerMetadata__$2 as e,augiA20Il_default as t,init_augiA20Il as n}from"./shared-lib.BuF4Xqus.mjs";n();export{e as __FramerMetadata__,t as default};
